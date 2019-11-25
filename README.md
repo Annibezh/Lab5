@@ -7,7 +7,7 @@
 | --add     | -a          | no argument           |
 
 
-###Examples:
+### Examples:
 
 ~/Lab5$ ./Source --h --> Argument: help
 
