@@ -1,0 +1,2 @@
+/home/anna/Lab5/CMakeFiles/rebuild_cache.dir
+/home/anna/Lab5/CMakeFiles/edit_cache.dir
