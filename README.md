@@ -1,10 +1,13 @@
 
-| Long name | short name  | argument requirements |
+| long name | short name  | argument requirements |
 | ----------|-------------|-----------------------|
 | --help    | -h          | no argument           |
 | --size    | -s          | optional argument     |
 | --file    | -f          | required argument     |
 | --add     | -a          | no argument           |
+
+
+###Examples:
 
 ~/Lab5$ ./Source --h --> Argument: help
 
